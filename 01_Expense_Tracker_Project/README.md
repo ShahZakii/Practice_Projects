@@ -44,7 +44,6 @@ The Expense Tracker is designed as a beginner-friendly Python project to strengt
 ├── expense_tracker.py
 ├── README.md
 └── 02_Output_Screenshots/
-    ├── main-menu.png
     ├── add-expense.png
     ├── view-expenses.png
     ├── total-expenses.png
@@ -117,9 +116,3 @@ Through this project, I practiced:
 ## 👨‍💻 Author
 
 **ZAKI SHAH**
-
-GitHub: https://github.com/your-username
-
----
-
-⭐ If you found this project helpful, feel free to give it a star!
