@@ -56,25 +56,25 @@ The Expense Tracker is designed as a beginner-friendly Python project to strengt
 
 ### Add Expense
 
-![Add Expense](02_Output_Screenshots/Add Expense.png)
+![Add Expense](02_Output_Screenshots/01_Add_Expense.png)
 
 ---
 
 ### View Expenses
 
-![View Expenses](02_Output_Screenshots/View All Expense.png)
+![View Expenses](02_Output_Screenshots/02_View_All_Expense.png)
 
 ---
 
 ### Total Expenses
 
-![Total Expenses](02_Output_Screenshots/Sum of all Expense.png)
+![Total Expenses](02_Output_Screenshots/03_Sum_of_all_Expense.png)
 
 ---
 
 ### Delete Expense
 
-![Delete Expense](02_Output_Screenshots/Delete Expense.png)
+![Delete Expense](02_Output_Screenshots/04_Delete_Expense.png)
 
 ---
 
